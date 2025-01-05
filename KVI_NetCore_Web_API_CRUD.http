@@ -1,0 +1,6 @@
+@KVI_NetCore_Web_API_CRUD_HostAddress = http://localhost:5066
+
+GET {{KVI_NetCore_Web_API_CRUD_HostAddress}}/users/
+Accept: application/json
+
+###
